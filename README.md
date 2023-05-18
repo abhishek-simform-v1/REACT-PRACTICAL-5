@@ -3,7 +3,7 @@
 ## Deployement Link
 
 ```jsx
-https://react-practical-5-simform-v2.netlify.app/
+https://react-practical-6-simform.netlify.app/)
 ```
 
 ## **Getting Started**
